@@ -46,19 +46,6 @@ Instructions:
 - To begin inference run: *python3 Fermi_Detection.py* 
 
 
-Other files: 
-
-**Dragon_job_sub_file** (used to submit model training job to Dragon supercomputer via Moab/Torque job scheduler)
-
-**List of libraries** (list of all libraries and version used to set dependencies for training and deployment)
-
-**Model_image_tester.py** (single image object detection test)
-
-**inception_model_trained_logs** (generated during training to check model training progress and accuracy)
-
-**tf_text_graph_ssd.py** (used to generate protobuf txt file for OpenCV DNN module deployment with Intel RealSense D435 camera)
-
-
 
 
 
