@@ -49,4 +49,4 @@ Instructions:
 
 
 
-_Credit: [Frantishek Akulich](https://www.linkedin.com/in/tisha-akulich-a1640869/), [Christiane Alford](https://www.linkedin.com/in/christiane-alford-616948159/), [Mazdak Khoshnood](https://www.linkedin.com/in/mazdak-khoshnood-52814793/) and [Harsh Gupta](https://www.linkedin.com/in/harsh-devprakash-gupta-nepal/)_
+_Credit: [Mazdak Khoshnood](https://www.linkedin.com/in/mazdak-khoshnood-52814793/), [Frantishek Akulich](https://www.linkedin.com/in/tisha-akulich-a1640869/), [Christiane Alford](https://www.linkedin.com/in/christiane-alford-616948159/), and [Harsh Gupta](https://www.linkedin.com/in/harsh-devprakash-gupta-nepal/)_
